@@ -18,7 +18,7 @@ class Payload:
             "email": "%s@gmail.com" % ("".join(random.choice(string.ascii_lowercase+string.digits) for _ in range(8))),
             "username": username,
             "password": "XDiscord420!%",
-            "invite": config['invite_code'],
+            "invite": config['https://discord.gg/6tRzK2Ng'],
             "consent": True,
             "gift_code_sku_id": "null",
             "date_of_birth": "2000-04-01",
